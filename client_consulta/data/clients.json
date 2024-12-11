@@ -1,0 +1,14 @@
+[
+    {
+        "cpf": "12345678901",
+        "nome": "João Silva",
+        "nascimento": "1980-01-15",
+        "email": "joao.silva@email.com"
+    },
+    {
+        "cpf": "98765432100",
+        "nome": "Maria Oliveira",
+        "nascimento": "1992-05-23",
+        "email": "maria.oliveira@email.com"
+    }
+]
